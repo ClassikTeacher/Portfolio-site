@@ -1,0 +1,14 @@
+.logo{
+    position: relative;
+    width: 138.83px;
+    height: 43.24px;
+    margin: 16px 0px 0px 1.2px;
+    /* padding-right: 10px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text{
+    margin-top: 3px;
+}

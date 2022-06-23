@@ -1,0 +1,14 @@
+
+.title{
+    width: 256px;
+    
+    font-family: 'Epilogue-ExtraBold', sans-serif;
+    font-size: 72px;
+    text-align: center;
+}
+
+@media(max-width:1040px){
+   .title{
+    font-size: 56px;
+   }
+}

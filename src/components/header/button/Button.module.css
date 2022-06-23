@@ -1,0 +1,22 @@
+
+.button{
+    width: 138px;
+    height: 48px;
+    display: flex;
+    padding: 14px 39px 15px 39px;
+    font-family: 'Epilogue-Black', sans-serif;
+    color: #fff;
+    background: none;
+    border: #fff 1px solid;
+    border-radius: 6px;
+    font-size: 14px;
+    margin-top: 16px;
+    align-items: flex-end;
+    justify-content: center;
+    cursor: pointer;
+}
+@media(max-width:1040px){
+    .button{
+        display: none;
+    }
+}

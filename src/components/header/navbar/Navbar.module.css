@@ -1,0 +1,19 @@
+.navbar{
+    width: 522px;
+    height: 21px;
+    display: flex;
+    align-items: flex-end;
+    margin-top: 32px;
+    justify-content: space-between;
+}
+@media(max-width:1040px){
+    .navbar{
+        display: none;
+    }
+}
+.navbar a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Epilogue-Regular', sans-serif;
+}
